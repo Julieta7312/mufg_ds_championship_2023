@@ -1,1 +1,1 @@
-# mufg_ds_competition
+MUFG Data Science Competition, 2023
